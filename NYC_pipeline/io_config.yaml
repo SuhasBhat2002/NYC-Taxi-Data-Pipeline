@@ -103,10 +103,10 @@ default:
   REDSHIFT_CLUSTER_ID: redshift_cluster_id
   REDSHIFT_IAM_PROFILE: default
   # Snowflake
-  SNOWFLAKE_USER: "SUHAS"
-  SNOWFLAKE_PASSWORD: "Snowflake123++"
-  SNOWFLAKE_ACCOUNT: "YAPNEDY-ICB40223"
-  SNOWFLAKE_DEFAULT_WH: "COMPUTE_WH"                  # Optional default warehouse
+  SNOWFLAKE_USER: 
+  SNOWFLAKE_PASSWORD: 
+  SNOWFLAKE_ACCOUNT: 
+  SNOWFLAKE_DEFAULT_WH:                  # Optional default warehouse
   SNOWFLAKE_DEFAULT_DB: null                  # Optional default database
   SNOWFLAKE_DEFAULT_SCHEMA: null              # Optional default schema
   SNOWFLAKE_PRIVATE_KEY_PASSPHRASE: null      # Optional private key passphrase
